@@ -23,8 +23,6 @@ interface PhotoApiService {
     ): Response<List<Photo>>
 
     companion object {
-        // Using JSONPlaceholder as a temporary placeholder API for this example
-        // In real app, you'd need to create a real API or use a different service
         private const val BASE_URL = "https://jsonplaceholder.typicode.com/"
 
         fun create(): PhotoApiService {
