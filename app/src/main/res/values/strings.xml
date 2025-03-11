@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Photo Album</string>
+
+    <!-- Navigation -->
+    <string name="gallery">Gallery</string>
+    <string name="favorites">Favorites</string>
+
+    <!-- UI elements -->
+    <string name="search">Search</string>
+    <string name="retry">Retry</string>
+    <string name="photo_description">Photo image</string>
+    <string name="favorite_button">Toggle favorite</string>
+
+    <!-- Messages -->
+    <string name="no_photos_found">No photos found</string>
+    <string name="no_favorites_yet">You haven\'t added any favorites yet</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="offline_mode">You\'re in offline mode. Showing cached content.</string>
+    <string name="loading_error">Error loading photos</string>
+    <string name="added_to_favorites">Added to favorites</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+</resources>

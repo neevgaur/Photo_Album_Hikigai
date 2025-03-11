@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M50,0A50,50 0 1,1 0,50A50,50 0 0,1 50,0Z" />
+
+    <!-- Camera Icon (Example Placeholder) -->
+    <path
+        android:fillColor="#757575"
+        android:pathData="M35,40 L65,40 C67,40 68,41 68,43 L68,63 C68,65 67,67 65,67 L35,67 C33,67 32,65 32,63 L32,43 C32,41 33,40 35,40Z" />
+
+    <!-- Circle Inside Camera -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,48A7,7 0 1,1 43,55A7,7 0 0,1 50,48Z" />
+</vector>
